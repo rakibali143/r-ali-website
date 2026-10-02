@@ -1,0 +1,162 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8080/index%20(2026-09-12).html
+Subject: R.Ali Website
+Date: Fri, 02 Oct 2026 12:31:55 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--bhpv9b3oB3gXgN7m9LuwpXfbmfmm5zjp9YJxoWCB1J----"
+
+
+------MultipartBoundary--bhpv9b3oB3gXgN7m9LuwpXfbmfmm5zjp9YJxoWCB1J----
+Content-Type: text/html
+Content-ID: <frame-7442181BC5EC23B6015E61F5CA03B341@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8080/index%20(2026-09-12).html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="cid:css-b4a7ac19-e806-4918-a041-694f07781d7d@mhtml.blink" />
+    <title>R.Ali Website</title>
+
+    
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="http://localhost:8080/index%20(2026-09-12).html#home">Home</a>
+        <a href="http://localhost:8080/index%20(2026-09-12).html#about">About</a>
+        <a href="http://localhost:8080/index%20(2026-09-12).html#contact">Contact</a>
+    </nav>
+
+
+    <!-- Home Section -->
+    <section id="home">
+
+        <h1>Welcome to My Website</h1>
+
+        <p>Hello! I am Rakib Ali.</p>
+
+        <p>Welcome to my personal website.</p>
+
+        <a href="http://localhost:8080/index%20(2026-09-12).html#about">
+            <button style="background-color: blue; color: white; padding: 10px 20px; border: none; border-radius: 6px;">
+                Know More
+            </button>
+        </a>
+
+    </section>
+
+
+    <!-- About Section -->
+    <section id="about">
+
+        <h2>About Me</h2>
+        
+
+
+        <p>I am Rakib Ali. I am a first-year Electrical Engineering student.</p>
+
+        <h3>My Profile</h3>
+
+        <p><b>Name:</b> Rakib Ali</p>
+
+        <p><b>College:</b> Ratua S. N. Bose Government Polytechnic College</p>
+
+        <p><b>Session:</b> First Year (2026-27)</p>
+
+        <p><b>Branch:</b> Electrical Engineering</p>
+
+        <p><b>Goal:</b> To become a successful engineer</p>
+
+
+        <h3>My Skills</h3>
+
+        <ul>
+            <li>Electrical Engineering</li>
+            <li>Basic Computer Skills</li>
+            <li>Communication Skills</li>
+            <li>Web Development</li>
+        </ul>
+
+
+        <h3>My Projects</h3>
+
+        <ul>
+            <li>My First Website</li>
+            <li>Electrical Engineering Project - Coming Soon</li>
+        </ul>
+
+    </section>
+
+
+    <!-- Contact Section -->
+    <section id="contact">
+
+        <h2>Contact Me</h2>
+
+        <form>
+
+            <input type="text" placeholder="Your Name" style="padding: 10px; border-radius: 5px; border: 1px solid gray;">
+
+            <br><br>
+
+            <textarea placeholder="Your Message" rows="5" style="padding: 10px; #8098ffd6border-radius: 5px; border: 1px solid gray;"></textarea>
+
+            <br><br>
+
+            <button type="submit" style="background-color: blue; color: white; padding: 10px 20px; border: none; border-radius: 6px;">
+                Send Message
+            </button>
+
+        </form>
+
+    </section>
+
+
+    <!-- Thank You -->
+    <div style="text-align: center; padding: 30px;">
+
+        <h2>Thank You for Visiting!</h2>
+
+        <p>Have a great day 😊 </p>
+
+    </div>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p>© 2026 R.Ali. All Rights Reserved.</p>
+
+    </footer>
+
+
+
+
+</body></html>
+------MultipartBoundary--bhpv9b3oB3gXgN7m9LuwpXfbmfmm5zjp9YJxoWCB1J----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-b4a7ac19-e806-4918-a041-694f07781d7d@mhtml.blink
+
+@charset "windows-1252";
+
+body { font-family: Arial, sans-serif; margin: 0px; background-color: lightblue; }
+
+nav { text-align: center; margin: 20px; }
+
+nav a { text-decoration: none; margin: 10px; font-size: 18px; background-color: blue; color: white; padding: 8px 12px; border-radius: 5px; }
+
+#home { text-align: center; padding: 60px 20px; background: linear-gradient(135deg, rgb(255, 255, 255), rgb(224, 242, 255)); margin: 20px; border-radius: 15px; }
+
+#about, #contact { background-color: white; padding: 20px; margin: 20px; border-radius: 10px; text-align: center; }
+
+footer { text-align: center; padding: 15px; margin-top: 20px; background-color: white; }
+
+@media (max-width: 600px) {
+  #home h1 { font-size: 28px; }
+  nav a { margin: 5px; font-size: 16px; }
+  #about, #contact { margin: 10px; }
+}
+------MultipartBoundary--bhpv9b3oB3gXgN7m9LuwpXfbmfmm5zjp9YJxoWCB1J------
